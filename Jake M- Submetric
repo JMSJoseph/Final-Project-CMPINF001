@@ -1,0 +1,50 @@
+Introduction: https://www.alleghenycounty.us/uploadedFiles/Allegheny_Home/Health_Department/Resources/Data_and_Reporting/Air_Quality_Reports/2021_AQ_Annual_Review.pdf
+The best air quality will be used to help determine the best neighbourhood in Pittsburgh. 
+
+Air quality is determined by the amount of possibly dangerous chemicals and/or pollutants found in each measured region of Pittsburgh. The sensors are located in each township of
+Alleghany county, so using the sensors for each general area will be applied to the neighbourhoods that are contained within these townships. 
+
+Air pollution is caused by human activity that creates harmful chemicals for humans to breathe. Whether it be industry, open burning (outdoor grilling, bonfires, etc), 
+high-motor-traffic areas, regions will be judged based on how much these activities and operations effect the air quality. Air quality can also be changed by the 
+amount of air circulation each region has, this would be affected by population density (large buildings, clusters).
+
+The effects of poor air quality can be severe, it can lead to irritation of the sensitive areas(throat, nose, eyes, lungs); it can lead to cardiovascular and respitory illnessess:
+asthma, heart disease, and emphysema; and in severe cases even cancer: lung cancer, liver cancer.
+
+Metric: Air Quality
+
+Data: https://www.alleghenycounty.us/uploadedFiles/Allegheny_Home/Health_Department/Resources/Data_and_Reporting/Air_Quality_Reports/2021-data-summary.pdf
+The monitor results below show the concentration of PM2.5 (particle matter above 2.5 micro meters) within the air of each region.
+Filter based monitors (Annual), Standard = 12 ug/m^3
+Township           Measurment
+-Liberty:          11.8 ug/m^3 
+-North Braddock:   10.7 ug/m^3
+-Lawrencville:     9.8  ug/m^3
+-Clairton:         9.2  ug/m^3
+-Harrison:         8.2  ug/m^3
+-South Fayette:    7.8  ug/m^3
+
+Filter based monitors (24-hr), Standard = 35 ug/m^3
+Township           Measurment
+-Liberty:          51.5 ug/m^3 
+-North Braddock:   29.2 ug/m^3
+-Lawrencville:     46.7 ug/m^3
+-Clairton:         20.7 ug/m^3
+-Harrison:         23.7 ug/m^3
+-South Fayette:    23.2 ug/m^3
+
+Analysis:
+From the data above, several areas can be ruled out for being considered the 'best' neighborhood. Firstly Liberty is by far the worst neighborhood for air quality, going over 
+the federal standards for the 24 hr monitoring by close to 20 ug/m^3 and was just under the standard for the annual monitoring. Secondly, Lawrenceville shows the second 
+highest 24 hr PM2.5 measurments at 46.7 ug/m^3. These neighborhoods and their PM2.5 levels confirm the hypothesis that high motor traffic and industry directly correlate
+to the level of air pollution. Also, population density is an applicable statistic in this case due to the higher densities in both of listed neighborhoods as compared to
+surrounding regions. The best neighborhood that can be derived from the given metric seems to be South Fayette, with the lowest measurements in both 24 hr and annual PM2.5 
+measurements(24hr: 23.2 ug/m^3, Annual: 7.8 ug/m^3).
+
+Conclusion:
+In conclusion, we can see, based on the air quality metric, that South Fayette Township is the best neighborhood to live in. While the sensors may not specify other neighborhoods 
+surrounding this region, we can assume that these areas share a similar air quality. These regions would include: Sterling Ridge, The Berkshires, Newbury, Forest Ridge, Hunting Ridge, 
+Hickory Heights, Pinnacle Point, Springhouse, Willowbrook, and Estates of Lion Ridge. South Fayette is also a more suburban area, while still being in Alleghany County. This proves
+that population density is also important to predicting air quality.
+
+
