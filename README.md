@@ -7,5 +7,5 @@ Population: https://data.wprdc.org/dataset/2020-census-redistricting-data-extrac
 Arrests: https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f  
 ## Canvas Group Number: 33
 ## Notebooks:
-Each notebook starts with the group members name  
+Each notebook starts with the group member's name  
 ## Comparing multiple datasets in order to determine the "best" neighborhood in Pittsburgh, the "bestness" will be determined by the safety of each neighborhood.
