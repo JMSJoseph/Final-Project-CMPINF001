@@ -9,4 +9,4 @@ Arrests: https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-
 ## Notebooks:
 Each notebook starts with the group member's name  
 ## Description 
-Comparing multiple datasets in order to determine the "best" neighborhood in Pittsburgh, the "bestness" will be determined by the safety of each neighborhood.
+Comparing multiple datasets in order to determine the "best" neighborhood in Pittsburgh, the "bestness" will be determined by the health/safety of each neighborhood.
