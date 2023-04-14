@@ -1,0 +1,18 @@
+The data we collected each were measured by a certain submetric. Combining these submetrics gives us the result of our combined metric, the neighborhood that is the best based 
+on its safety. 
+
+The metrics: 
+-Obesity rates
+-Air Quality (based on PPM2.5 measurements)
+-Property value
+
+For our the air quality metric, we results from the Air Quality index supploied by Alleghany County's Health Department. The results are taken from air quality monitors that
+measure each of the respective areas particualte matter. The concentration of the particulate matter correlates to the amount of risk resulting from breathing the air. This
+fact relates directly to the overall metric, safety. The neighborhood with the best air quality would have the best rating within the submetric and in turn in the overall 
+metric. 
+
+When looking at the obesity metric, with results taken from the Alleghany County's Health Department as well, would also directly relate to the safety metric. Areas with 
+higher obesity would indicate a lack of good general health. This would be resulting from a possible lack of sufficient nutritional options. 
+
+
+
